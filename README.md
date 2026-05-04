@@ -1,5 +1,4 @@
-# 🚀 Customer Churn Prediction System<img width="178" height="368" alt="image" src="https://github.com/user-attachments/assets/45889371-723b-4fb3-8709-7a6b88ff5824" />
-
+# 🚀 Customer Churn Prediction System
 
 Predict whether a customer is likely to churn using Machine Learning.  
 This project demonstrates a complete end-to-end ML pipeline from data preprocessing to deployment.
